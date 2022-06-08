@@ -1,0 +1,12 @@
+@import url('reset.css');
+section {
+    text-align: center;
+}
+
+h2 {
+    margin: 2rem 0 2rem 0;
+}
+
+p {
+    margin-bottom: 2rem;
+}
